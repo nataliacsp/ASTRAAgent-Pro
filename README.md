@@ -83,11 +83,15 @@ Headless mode coming soon
 
 Great for journaling in remote environments or travel
 
-🧠 Author
+🧠 Author  
+Created by Natalia Solorzano  
+Capstone Project – AI Agent Prototype  
+April 2025  
 
-Created by Natalia SolorzanoCapstone Project – AI Agent PrototypeApril 2025
+📌 License  
+Copyright © 2025 Natalia Solorzano  
+All content, code, and visual assets in this repository are original works.  
+Use or reproduction without explicit permission is strictly prohibited.
 
-📌 License
 
-For educational and personal research use.
 
